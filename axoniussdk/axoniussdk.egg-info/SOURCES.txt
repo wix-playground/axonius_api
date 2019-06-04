@@ -1,0 +1,9 @@
+setup.py
+axoniussdk/__init__.py
+axoniussdk/argument_parser.py
+axoniussdk/client.py
+axoniussdk.egg-info/PKG-INFO
+axoniussdk.egg-info/SOURCES.txt
+axoniussdk.egg-info/dependency_links.txt
+axoniussdk.egg-info/requires.txt
+axoniussdk.egg-info/top_level.txt
